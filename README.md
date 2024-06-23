@@ -8,16 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm an indie full-stack developer 
    <p align="left">
-   
-       
-    
      4
     / \
    2   6
   / \ / \
  1  3 5  7
-
    
+       
+
 
 ### 🧰 Languages and Tools
 
