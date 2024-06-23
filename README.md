@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm an indie full-stack developer 
    <p align="left">
-    <h1>
+   
        
     
      4
@@ -16,7 +16,7 @@ I'm an indie full-stack developer
    2   6
   / \ / \
  1  3 5  7
-</h1> 
+
    
 
 ### 🧰 Languages and Tools
