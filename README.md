@@ -2,6 +2,7 @@
 ## Full-Stack Developer
 
 I focus on building modern and efficient web applications with a strong emphasis on clean architecture and maintainability.
+
 My work primarily revolves around JavaScript and TypeScript, with a growing passion for cloud infrastructure and scalable systems.
 
 ### Areas of Expertise
@@ -14,7 +15,7 @@ My work primarily revolves around JavaScript and TypeScript, with a growing pass
 
 - **Frontend:** Next.js, React, TailwindCSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Sqlite
+- **Database:** MongoDB, SQLite
 - **Languages:** JavaScript, TypeScript, Python
 
 ### Currently Learning
@@ -25,5 +26,6 @@ My work primarily revolves around JavaScript and TypeScript, with a growing pass
 
 ### Portfolio and Contact
 
-- Email: [hatemtaleb803@gmail.com](mailto:hatemtaleb803@gmail.com)
-- LinkedIn: [linkedin.com/in/hatem-taleb](https://www.linkedin.com/in/taleb-hatem-b50a192ba/)
+- **Portfolio:** [hatem12345th.github.io](https://hatem12345th.github.io/)
+- **Email:** [hatemtaleb803@gmail.com](mailto:hatemtaleb803@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hatem-taleb](https://www.linkedin.com/in/taleb-hatem-b50a192ba/)
